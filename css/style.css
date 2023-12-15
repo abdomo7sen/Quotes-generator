@@ -1,0 +1,29 @@
+body{
+    overflow: hidden;
+    height: 100vh;
+    background-image: url(../968238-desktop-wallpaper-quotes-1920x1080-ipad-pro.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    font-size: 80px;
+    font-weight: 700;
+}
+p{
+    font-size: 35px;
+    font-weight: 500;
+}
+button{
+    background-color: #402834;
+    padding: 15px;
+}
+button:hover{
+    background-color: #4F5158;
+}
+#Demo{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
